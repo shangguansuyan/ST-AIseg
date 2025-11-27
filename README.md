@@ -1,7 +1,8 @@
 # ST-AIseg
 AI-based segmentation in spatial transcriptomics
 
-!(amns.jpg)
+- **Workflow diagram**:
+![Workflow diagram](amns.jpg)
 
 ## Overview
 
