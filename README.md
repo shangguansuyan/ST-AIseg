@@ -1,5 +1,7 @@
 # ST-AIseg
-AI-based segmentation in spatial transcriptomics
+AI-based segmentation in spatial transcriptomics.
+
+For spatial transcriptomic spots that are difficult to distinguish at the transcriptomic level, there may nevertheless be discernible differences in tissue morphology (for example, in hepatic fibrosis). When identifying regions of hepatic fibrosis with high malignant potential, transcriptomic profiles may fail to highlight the target spots because malignant transformation has not yet occurred. However, subtle alterations in cellular morphology may emerge, providing the structural basis for future oncogenesis. Given that AI can interpret images with a level of detail far beyond human capacity, building AI-based multimodal models to discriminate spatial transcriptomic image regions is valuable and can be seamlessly integrated with subsequent transcriptomic analyses.
 
 - **Workflow diagram**:
 ![Workflow diagram](amns.jpg)
