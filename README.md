@@ -1,7 +1,7 @@
 # ST-AIseg
 AI-based segmentation in spatial transcriptomics
 
-!(images/amns.jpg)
+!(amns.jpg)
 
 ## Overview
 
